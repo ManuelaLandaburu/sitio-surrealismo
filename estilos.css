@@ -31,7 +31,7 @@ header {
 }
 
 
-.body-home  {
+.body-home {
   background: url(imagenes/fondobody.jpg) no-repeat center center fixed;
   background-size: cover;
 }
@@ -69,8 +69,9 @@ footer {
 
 }
 
-body {
-  background-color: rgb(70, 105, 78);
+.body-vanguardia {
+  
+  background-color: rgb(97, 44, 44);
   
 }
 
@@ -83,13 +84,13 @@ body {
 	flex: 1;
 	padding: 20px;
   margin-left: 2%;
-  color: #f8faee;
+  color: white;
   
 }
 h2 {
   font-size: 65px;
   font-family: 'Rouge Script', cursive;
-  color:#f8faee;
+  color:white;
   
 }
 
@@ -116,7 +117,7 @@ h2 {
   flex: 1;
 	padding: 20px;
   margin-right: 2%;
-  color: #f8faee;
+  color: white;
 }
 
 .foto-tec {
@@ -140,7 +141,7 @@ h2 {
 }
 
 p {
-  color: #f8faee;
+  color: white;
 }
 
 
